@@ -8,7 +8,7 @@ Rust Italia è una community dedicata alla promozione e diffusione del linguaggi
 
 ## I nostri progetti
 
-- **rust-docs-it**: Traduzione italiana della documentazione ufficiale di Rust
+- [rust-docs-it](https://github.com/rust-ita/rust-docs-it): Traduzione italiana della documentazione ufficiale di Rust
 
 ## Come contribuire
 
